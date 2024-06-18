@@ -4,12 +4,21 @@ Includes Vue, Solid, React.
 
 # References
 
+<<<<<<< HEAD
 1. https://github.com/sasoria/astro-microfrontends (contains react and
    solid, but in js, no our great Vue)
 2. (@astrojs/vue doc) [https://docs.astro.build/en/guides/integrations-guide/vue/]
 3. (@astrojs/solid doc) [https://docs.astro.build/en/guides/integrations-guide/solid-js/]  
    do not recommend, will prompt warning for computation outside of render. (introduce memory leak)
 4. (@astrojs/react doc) [https://docs.astro.build/en/guides/integrations-guide/react/]
+=======
+1. https://github.com/sasoria/astro-microfrontends [contains react and
+   solid, but in js, no our great Vue]
+2. [@astrojs/vue doc](https://docs.astro.build/en/guides/integrations-guide/vue/)
+3. [@astrojs/solid doc](https://docs.astro.build/en/guides/integrations-guide/solid-js/)  
+   do not recommend, will prompt warning for computation outside of render. [introduce memory leak]
+4. [@astrojs/react doc](https://docs.astro.build/en/guides/integrations-guide/react/)
+>>>>>>> 441df21 (fix: fix readme syntax)
 
 # Usage
 
